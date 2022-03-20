@@ -1,2 +1,5 @@
 Welcome to my beecrowd solutions repository!
-This repository contains my beecrowd solutions to postgresql challenges/exercises.
+
+This repository contains my beecrowd solutions to some of the beecrowd's postgresql challenges/exercises.
+
+This list of exercises were done as an evaluation exam to the sixth module of my Data Science Degree on Let's Code!
